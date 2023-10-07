@@ -167,7 +167,7 @@ header {
 }
 
 .btn:hover {
-    background: #fdff83bd;
+    background: #d0d336bd;
 }
 
 .about {
@@ -221,7 +221,7 @@ header {
 .product-container .box:hover {
     cursor: pointer;
     scale: 1.1;
-    background: #fbff1b;
+    background: #fff;
 }
 
 .product-container img {
@@ -249,7 +249,7 @@ header {
 
 .product-container .box .content span {
     padding: 0 1rem;
-    color: #1b1b1b;
+    color: #464646;
     background: rgb(235, 235, 146);
     border-radius: 4px;
     font-weight: 500;
