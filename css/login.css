@@ -13,10 +13,11 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(../img/BG.jpg);
+    /* background: url(../img/BG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
+    background-color: #1b1b1b;
 }
 
 .icon-back {
